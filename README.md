@@ -5,4 +5,4 @@
 
 ## Salary Analysis
 ![2 Project Analysis Chart1](https://github.com/harshr81/Excel_Project-Data_Analytics/blob/main/0_Resources/Images/2_Project_Analysis_Chart1.png?raw=true)
-![2 Project Analysis Chart3]
+![2 Project Analysis Chart3](https://github.com/harshr81/Excel_Project-Data_Analytics/blob/main/0_Resources/Images/2_Project_Analysis_Chart3.png?raw=true)
